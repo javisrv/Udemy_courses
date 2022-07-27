@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/al34n1x/DataScience/master/3.Pandas/udemy_courses_ejercicio.csv
